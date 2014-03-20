@@ -1,3 +1,9 @@
+AS OF 3/20/2014, THE FULLCONTACT EXCEL TEMPLATES ARE NO LONGER ACTIVELY UPDATED ON GITHUB. 
+
+PLEASE VISIT http://www.fullcontact.com/libraries TO DOWNLOAD THE MOST RECENT VERSION.
+
+================================
+
 ABOUT THESE WORKBOOKS
 
 __FullContact Person Enrichment__
